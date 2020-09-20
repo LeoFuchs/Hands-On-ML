@@ -11,6 +11,8 @@
 
 Repository containing notes in **Portuguese** that occurred while reading the book. The notebooks are based on [materials](https://github.com/ageron/handson-ml2) provided by the publisher.
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="250" />
+
 The book was divided into two parts. The first part has the fundamentals of machine learning. This part has the following chapters:
 
 1. [The Machine Learning Landscape](https://github.com/LeoFuchs/Hands-On-ML/blob/master/Cap%C3%ADtulo%201%20-%20O%20Cen%C3%A1rio%20do%20Aprendizado%20de%20M%C3%A1quina.ipynb)

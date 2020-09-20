@@ -13,7 +13,7 @@ Repository containing notes in **Portuguese** that occurred while reading the bo
 
 The book was divided into two parts. The first part has the fundamentals of machine learning. This part has the following chapters:
 
-1. The Machine Learning Landscape
+1. [The Machine Learning Landscape](https://github.com/LeoFuchs/Hands-On-ML/blob/master/Cap%C3%ADtulo%201%20-%20O%20Cen%C3%A1rio%20do%20Aprendizado%20de%20M%C3%A1quina.ipynb)
 2. [End-to-End Machine Learning Project](https://github.com/LeoFuchs/Hands-On-ML/blob/master/Cap%C3%ADtulo%202%20-%20Projeto%20de%20Aprendizado%20de%20M%C3%A1quina%20de%20Ponta%20a%20Ponta.ipynb)
 3. Classification
 4. Training Models

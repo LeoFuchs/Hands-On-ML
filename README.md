@@ -17,9 +17,9 @@ The book was divided into two parts. The first part has the fundamentals of mach
 
 1. [The Machine Learning Landscape](https://github.com/LeoFuchs/Hands-On-ML/blob/master/Cap%C3%ADtulo%201%20-%20O%20Cen%C3%A1rio%20do%20Aprendizado%20de%20M%C3%A1quina.ipynb)
 2. [End-to-End Machine Learning Project](https://github.com/LeoFuchs/Hands-On-ML/blob/master/Cap%C3%ADtulo%202%20-%20Projeto%20de%20Aprendizado%20de%20M%C3%A1quina%20de%20Ponta%20a%20Ponta.ipynb)
-3. Classification
-4. Training Models
-5. Support Vector Machines
+3. [Classification](https://nbviewer.jupyter.org/github/LeoFuchs/Hands-On-ML/blob/master/Cap%C3%ADtulo%203%20-%20Classifica%C3%A7%C3%A3o.ipynb)
+4. [Training Models](https://nbviewer.jupyter.org/github/LeoFuchs/Hands-On-ML/blob/master/Cap%C3%ADtulo%204%20-%20Modelos%20de%20Treinamento.ipynb)
+5. [Support Vector Machines](https://nbviewer.jupyter.org/github/LeoFuchs/Hands-On-ML/blob/master/Cap%C3%ADtulo%205%20-%20M%C3%A1quinas%20de%20Vetores%20de%20Suporte.ipynb)
 6. Decision Trees
 7. Ensemble Learning and Random Forests
 8. Dimensionality Reduction
